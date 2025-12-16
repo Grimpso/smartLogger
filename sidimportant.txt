@@ -1,0 +1,29 @@
+-----------------SYLLABUS OF OOP-----------------------
+1️⃣ What is OOP & why we need it
+2️⃣ Class & Object
+3️⃣ Encapsulation
+4️⃣ Abstraction
+5️⃣ Inheritance
+6️⃣ Polymorphism
+7️⃣ Constructors & Destructors
+8️⃣ Access Specifiers
+9️⃣ Virtual Functions
+🔟 Rule of 3 / Rule of 5
+🔚 Mini OOP Project (real-world)
+
+
+WHAT IS OOP?
+oop is way of writing programs by thinking in terms of real-world objects insted of functions and variables
+it improves ----scalability,maintainability,reusablity,security etc;
+
+WHAT IS CLASS?
+class is a blueprint which defines what will object have(data) and what will object do(functions);
+example->blueprint of house
+
+WHAT IS AN OBJECT?
+object is a real instance which is created from a class
+ex->class-car
+    object->my car
+
+--------(class does not take memory,object takes memory)----------
+
