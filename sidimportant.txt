@@ -27,3 +27,14 @@ ex->class-car
 
 --------(class does not take memory,object takes memory)----------
 
+WHAT IS AN ENCAPSULATION?
+encapsulation means hieding internal details and allowing access only through controlled methods
+ex->atm machine-we only writ pin we dont care about internal details that how it works
+
+WHY WE USE ENCAPSULATION?
+for improving security, control access, prevent misuse, clean design
+
+------------------(make data private,expose behaviour)----------------------------
+
+----------------------(external entity are main()function,another class, other object, any code not inside the class own method)---------------------------
+
