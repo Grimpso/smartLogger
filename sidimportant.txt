@@ -38,3 +38,21 @@ for improving security, control access, prevent misuse, clean design
 
 ----------------------(external entity are main()function,another class, other object, any code not inside the class own method)---------------------------
 
+WHAT IS ABSTRACTION?
+abstraction means showing only what is necessary and hiding how it is done
+(only focus on what an object does,not how it does it)
+ex-> tv remote->you press on,you dont know how cercuits works
+EX->sort(arr,arr+n);
+
+WHAT ABSTRACTION PROVIDE US?
+abstraction provide us loose coupled,nice structure, easy extension safer design
+
+WHAT IS ABSTRACT CLASS?
+abstract class cannot be instantiated and is used as a base class
+a class become abstract class if it has pure virtual function
+
+WHAT IS PURE VIRTUAL FUNCTION?
+it is a function that has no implementation in base class and must be implemented by derived class
+virtual void draw()=0;
+
+
